@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timescale", "Timescale.csproj", "{DBC0551F-4169-4F63-BFE0-1757A0731A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC0551F-4169-4F63-BFE0-1757A0731A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC0551F-4169-4F63-BFE0-1757A0731A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC0551F-4169-4F63-BFE0-1757A0731A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC0551F-4169-4F63-BFE0-1757A0731A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF47E102-F521-4FF2-8FB4-71FDB5AF7AB1}
+	EndGlobalSection
+EndGlobal
